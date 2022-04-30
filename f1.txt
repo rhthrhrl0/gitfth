@@ -1,7 +1,7 @@
 1
 3
 exp
-exp_com1
+c
 a
 bbexp
 
